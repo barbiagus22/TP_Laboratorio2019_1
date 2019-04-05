@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554502296 source:c:\users\barbara agustina\desktop\tp1\tp1\insaurralde.c
+	<stdio.h>
+	"Insaurralde.h"
+
+1554502296 c:\users\barbara agustina\desktop\tp1\tp1\insaurralde.h
+
+1554503687 source:c:\users\barbara agustina\desktop\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Insaurralde.h"
+
